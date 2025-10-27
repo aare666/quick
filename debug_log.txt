@@ -1,0 +1,363 @@
+[2025-08-11 12:41:39] Raw input:
+{"user":"windr@gmeil.com","password":"r435345435524t","page":"password"}
+[2025-08-11 12:41:39] Decoded data:
+Array
+(
+    [user] => windr@gmeil.com
+    [password] => r435345435524t
+    [page] => password
+)
+
+[2025-08-11 12:41:39] Parsed email: 
+[2025-08-11 13:03:21] Raw input:
+{"user":"drghtrtr","password":"rtrtrtr","page":"password"}
+[2025-08-11 13:03:21] Decoded data:
+Array
+(
+    [user] => drghtrtr
+    [password] => rtrtrtr
+    [page] => password
+)
+
+[2025-08-11 13:03:21] Parsed email: 
+[2025-08-11 13:06:41] Raw input:
+{"user":"4rfewfd","password":"dfdsfd","page":"password"}
+[2025-08-11 13:06:41] Decoded data:
+Array
+(
+    [user] => 4rfewfd
+    [password] => dfdsfd
+    [page] => password
+)
+
+[2025-08-11 13:06:41] Parsed email: 
+[2025-08-11 13:09:29] Raw input:
+{"user":"trgf","password":"dfsfdfd","page":"password"}
+[2025-08-11 13:09:29] Decoded data:
+Array
+(
+    [user] => trgf
+    [password] => dfsfdfd
+    [page] => password
+)
+
+[2025-08-11 13:09:29] Parsed email: 
+[2025-08-11 13:13:19] Raw input:
+{"user":"admin","password":"dwef","page":"password"}
+[2025-08-11 13:13:19] Decoded data:
+Array
+(
+    [user] => admin
+    [password] => dwef
+    [page] => password
+)
+
+[2025-08-11 13:13:19] Parsed email: 
+[2025-08-11 13:16:08] Raw input:
+{"user":"admin","password":"dfdfdf","page":"password"}
+[2025-08-11 13:16:08] Decoded data:
+Array
+(
+    [user] => admin
+    [password] => dfdfdf
+    [page] => password
+)
+
+[2025-08-11 13:16:08] Parsed email: 
+[2025-08-11 13:16:11] Raw input:
+{"user":"admin","password":"dfdfdf","page":"password"}
+[2025-08-11 13:16:11] Decoded data:
+Array
+(
+    [user] => admin
+    [password] => dfdfdf
+    [page] => password
+)
+
+[2025-08-11 13:16:11] Parsed email: 
+[2025-08-11 13:54:15] Raw input:
+{"user":"admin","password":"fyu","page":"password"}
+[2025-08-11 13:54:15] Decoded data:
+Array
+(
+    [user] => admin
+    [password] => fyu
+    [page] => password
+)
+
+[2025-08-11 13:54:15] Parsed email: 
+[2025-08-11 13:59:00] Raw input:
+username=rfdsf
+[2025-08-11 13:59:00] Decoded data:
+Array
+(
+    [username] => rfdsf
+)
+
+[2025-08-11 13:59:00] Parsed email: 
+[2025-08-11 13:59:51] Raw input:
+{"user":"dfgh","password":"yhjg","page":"password"}
+[2025-08-11 13:59:51] Decoded data:
+Array
+(
+    [user] => dfgh
+    [password] => yhjg
+    [page] => password
+)
+
+[2025-08-11 13:59:51] Parsed email: 
+[2025-08-11 14:03:35] Raw input:
+{"email":"admin","page":"index"}
+[2025-08-11 14:03:35] Decoded data:
+Array
+(
+    [email] => admin
+    [page] => index
+)
+
+[2025-08-11 14:03:35] Parsed email: admin
+[2025-08-11 14:03:39] Raw input:
+{"user":"","password":"fdfsf","page":"password"}
+[2025-08-11 14:03:39] Decoded data:
+Array
+(
+    [user] => 
+    [password] => fdfsf
+    [page] => password
+)
+
+[2025-08-11 14:03:39] Parsed email: 
+[2025-08-11 14:12:06] Raw input:
+{"user":"fgdg","password":"thjk","page":"password"}
+[2025-08-11 14:12:06] Decoded data:
+Array
+(
+    [user] => fgdg
+    [password] => thjk
+    [page] => password
+)
+
+[2025-08-11 14:12:06] Parsed email: 
+[2025-08-11 14:18:33] Raw input:
+{"email":"fgdg","phone":"","page":"index"}
+[2025-08-11 14:18:33] Decoded data:
+Array
+(
+    [email] => fgdg
+    [phone] => 
+    [page] => index
+)
+
+[2025-08-11 14:18:33] Parsed email: fgdg
+[2025-08-11 14:18:37] Raw input:
+{"user":"","password":"dfsd","page":"password"}
+[2025-08-11 14:18:37] Decoded data:
+Array
+(
+    [user] => 
+    [password] => dfsd
+    [page] => password
+)
+
+[2025-08-11 14:18:37] Parsed email: 
+[2025-08-11 14:21:52] Raw input:
+{"email":"fcgdf","phone":"","page":"index"}
+[2025-08-11 14:21:52] Decoded data:
+Array
+(
+    [email] => fcgdf
+    [phone] => 
+    [page] => index
+)
+
+[2025-08-11 14:21:52] Parsed email: fcgdf
+[2025-08-11 14:21:56] Raw input:
+{"user":"","password":"vhgfhdf","page":"password"}
+[2025-08-11 14:21:56] Decoded data:
+Array
+(
+    [user] => 
+    [password] => vhgfhdf
+    [page] => password
+)
+
+[2025-08-11 14:21:56] Parsed email: 
+[2025-08-11 14:44:05] Raw input:
+{"user":"","password":"dfgf","page":"password"}
+[2025-08-11 14:44:05] Decoded data:
+Array
+(
+    [user] => 
+    [password] => dfgf
+    [page] => password
+)
+
+[2025-08-11 14:44:05] Parsed email: 
+[2025-08-11 15:06:04] Raw input:
+{"email":"sdertg@rthy.tr","phone":"","page":"index"}
+[2025-08-11 15:06:04] Decoded data:
+Array
+(
+    [email] => sdertg@rthy.tr
+    [phone] => 
+    [page] => index
+)
+
+[2025-08-11 15:06:04] Parsed email: sdertg@rthy.tr
+[2025-08-11 15:06:10] Raw input:
+{"user":"","password":"43trfdgdg","page":"password"}
+[2025-08-11 15:06:10] Decoded data:
+Array
+(
+    [user] => 
+    [password] => 43trfdgdg
+    [page] => password
+)
+
+[2025-08-11 15:06:10] Parsed email: 
+[2025-08-11 15:06:49] Raw input:
+otp_code=432432
+[2025-08-11 15:06:49] Decoded data:
+Array
+(
+    [otp_code] => 432432
+)
+
+[2025-08-11 15:06:49] Parsed email: 
+[2025-08-11 15:07:25] Raw input:
+{"email":"t","phone":"","page":"index"}
+[2025-08-11 15:07:25] Decoded data:
+Array
+(
+    [email] => t
+    [phone] => 
+    [page] => index
+)
+
+[2025-08-11 15:07:25] Parsed email: t
+[2025-08-11 15:07:30] Raw input:
+{"user":"","password":"fgf","page":"password"}
+[2025-08-11 15:07:30] Decoded data:
+Array
+(
+    [user] => 
+    [password] => fgf
+    [page] => password
+)
+
+[2025-08-11 15:07:30] Parsed email: 
+[2025-08-11 15:07:46] Raw input:
+otp_code=34432
+[2025-08-11 15:07:46] Decoded data:
+Array
+(
+    [otp_code] => 34432
+)
+
+[2025-08-11 15:07:46] Parsed email: 
+[2025-08-11 15:14:59] Raw input:
+{"otp":"433561","token":"","page":"index2"}
+[2025-08-11 15:14:59] Decoded data:
+Array
+(
+    [otp] => 433561
+    [token] => 
+    [page] => index2
+)
+
+[2025-08-11 15:14:59] Parsed email: 
+[2025-08-11 15:16:53] Raw input:
+otp_code=434
+[2025-08-11 15:16:53] Decoded data:
+Array
+(
+    [otp_code] => 434
+)
+
+[2025-08-11 15:16:53] Parsed email: 
+[2025-08-11 15:22:19] Raw input:
+{"otp":"344342","token":"","page":"index2"}
+[2025-08-11 15:22:19] Decoded data:
+Array
+(
+    [otp] => 344342
+    [token] => 
+    [page] => index2
+)
+
+[2025-08-11 15:22:19] Parsed email: 
+[2025-08-11 15:24:38] Raw input:
+{"otp":"233222","token":"","page":"index2"}
+[2025-08-11 15:24:38] Decoded data:
+Array
+(
+    [otp] => 233222
+    [token] => 
+    [page] => index2
+)
+
+[2025-08-11 15:24:38] Parsed email: 
+[2025-08-11 15:29:04] Raw input:
+otp_code=2232
+[2025-08-11 15:29:04] Decoded data:
+Array
+(
+    [otp_code] => 2232
+)
+
+[2025-08-11 15:29:04] Parsed email: 
+[2025-08-11 15:31:16] Raw input:
+{"otp":"343433","token":"","page":"index2"}
+[2025-08-11 15:31:16] Decoded data:
+Array
+(
+    [otp] => 343433
+    [token] => 
+    [page] => index2
+)
+
+[2025-08-11 15:31:16] Parsed email: 
+[2025-08-11 15:43:12] Raw input:
+{"email":"","phone":"+1343434343","page":"index"}
+[2025-08-11 15:43:12] Decoded data:
+Array
+(
+    [email] => 
+    [phone] => +1343434343
+    [page] => index
+)
+
+[2025-08-11 15:43:12] Parsed email: 
+[2025-08-11 15:43:17] Raw input:
+{"user":"","password":"34434343","page":"password"}
+[2025-08-11 15:43:17] Decoded data:
+Array
+(
+    [user] => 
+    [password] => 34434343
+    [page] => password
+)
+
+[2025-08-11 15:43:17] Parsed email: 
+[2025-08-11 15:44:21] Raw input:
+{"otp":"434333","token":"","page":"index2"}
+[2025-08-11 15:44:21] Decoded data:
+Array
+(
+    [otp] => 434333
+    [token] => 
+    [page] => index2
+)
+
+[2025-08-11 15:44:21] Parsed email: 
+[2025-08-11 15:44:43] Raw input:
+{"otp":"433443","token":"","page":"index2"}
+[2025-08-11 15:44:43] Decoded data:
+Array
+(
+    [otp] => 433443
+    [token] => 
+    [page] => index2
+)
+
+[2025-08-11 15:44:43] Parsed email: 
